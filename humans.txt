@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Taha Javed taha.javed@xx.com
 
 # THANKS
 
